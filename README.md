@@ -6,9 +6,7 @@
 
 This repository contains the implementation for a dual-path network with [mobilenetv3-small](https://arxiv.org/abs/1905.02244) backbone. I have used [PSP module](https://arxiv.org/abs/1612.01105) as the context aggregation block. 
 
-<p align="center">
-<img src="/images/image.png" alt="image" width="800"/></br>
-</p>
+<img src="https://media.discordapp.net/attachments/709066676800323605/1055843143150481488/image.png?width=1425&height=238" alt="Demo Image"/>
 
 ## Requirements
 
